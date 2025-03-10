@@ -1,4 +1,13 @@
-#Grupos de vuelo
+# Grupos de vuelo
+
+Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
+
+| Grupo       | Aparato |
+|-----------------|--------|
+| Alpha | F18        |
+| Bravo   | F18       |
+| Charlie         | F18        |
+| Delta         |    AH-64    |
 
 ## Grupo Alpha
 
