@@ -69,5 +69,15 @@ Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
 
 # Frecuencias de radio y estaciones de navegación
 
+| Nombre frecuencia      | Frecuencia |
+|-----------------|--------|
+| Grupo Alpha |        |
+|   Grupo Bravo       |        |
+|    Grupo Charlie       |        |
+|    Grupo Delta       |        |
+|    Frecuencia de malla       |        |
 
-
+| Estacion TACAN     | Tacan |
+|-----------------|--------|
+|  |        |
+|          |        |
