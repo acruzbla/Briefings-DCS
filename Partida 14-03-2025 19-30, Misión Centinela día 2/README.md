@@ -14,7 +14,7 @@
 
 # Sinopsis de la misión
 
-En el dia 1 nos desplegaron para 
+En el dia 1 nos desplegaron para dar soporte y apoyo a un convoy de rescate del grupo humanitario secuestrado. Durante la misión se derribó un AN-26 con terroristas a bordo. Nos informan que los terroristas del secuestro An-26B eran de la milicia del expresidente que quiere tomar el mando a la fuerza. Se están agrupando en el WP2 para lanzar un ataque de represalia. La OTAN nos manda a proteger la zona de la costa del Líbano. Además del WP2, se han detectado elementos hostiles en WP1 y WP3, así como destacamentos de guerra anti-aerea, por lo que se desplegarán grupos sobre esos WP.
 
 # Grupos de vuelo
 
