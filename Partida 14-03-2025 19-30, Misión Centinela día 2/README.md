@@ -114,6 +114,18 @@ No hay datos de reconocimiento.
 
 ## WP-2
 
+Aeronaves enemigas listas para despegar en scramble.
+
+[![WP2](https://i.ibb.co/cXXFJ09M/WP2.webp)](https://ibb.co/WppynZXq)
+
+[![WP2-2](https://i.ibb.co/TqnKjBZd/WP2-2.webp)](https://ibb.co/84RzvDJt)
+
+
 ## WP-3
 
+Objetivos aislados a los lados de la pista de taxi. Hay aeronaves listas para el despegue.
+
 [![WP3-2](https://i.ibb.co/G3b17M9Z/WP3-2.webp)](https://ibb.co/n85Vr1BX)
+
+[![WP-3-1](https://i.ibb.co/BVh8GNwc/WP-3-1.webp)](https://ibb.co/3yxtvzk4)
+
