@@ -7,6 +7,10 @@
   - [Grupo Delta](#grupo-delta)
 - [Frecuencias de radio y estaciones de navegación](#frecuencias-de-radio-y-estaciones-de-navegacion)
 
+# Sinopsis de la misión
+
+En el dia 1 nos desplegaron para 
+
 # Grupos de vuelo
 
 Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
@@ -69,6 +73,10 @@ Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
 
 # Frecuencias de radio y estaciones de navegación
 
+En este apartado quedan resumidas las estaciones de Radio, TACAN e ICLS que pueden ser necesarias durante la misión.
+
+## Frecuencias de radio
+
 | Nombre frecuencia      | Frecuencia |
 |-----------------|--------|
 | Grupo Alpha |        |
@@ -77,7 +85,16 @@ Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
 |    Grupo Delta       |        |
 |    Frecuencia de malla       |        |
 
+## Estaciones TACAN
+
 | Estacion TACAN     | Tacan |
+|-----------------|--------|
+|  |        |
+|          |        |
+
+## Estaciones ICLS
+
+| Estacion ICLS     | CANAL |
 |-----------------|--------|
 |  |        |
 |          |        |
