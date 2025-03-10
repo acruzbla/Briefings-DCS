@@ -1,3 +1,5 @@
+#Grupos de vuelo
+
 ## Grupo Alpha
 
  1. Tarea: SEAD & CAP.
@@ -10,3 +12,29 @@
 | Alpha-2         |        |
 | Alpha-3         |        |
 | Alpha-4         |        |
+
+## Grupo Bravo
+
+1. Tarea: Strike.
+2. Objetivo: Volar WP2 y estbalecer orbitas de observación, acatar las ordenes que se transferiran durante la misión. Ver más información en los siguientes puntos del briefing.
+3. Armamento: 2x AIM-9X, 2x JDAM, 2x MK-82, 2x Tanque externo, FLIR.
+
+| Slot: F18       | Piloto |
+|-----------------|--------|
+| Bravo-1 (Lider) |        |
+| Bravo-2         |        |
+| Bravo-3         |        |
+| Bravo-4         |        |
+
+## Grupo Charlie
+
+1. Tarea: Strike.
+2. Objetivo: Volar WP3 y estbalecer orbitas de observación, acatar las ordenes que se transferiran durante la misión. Ver más información en los siguientes puntos del briefing.
+3. Armamento: 2x AIM-9X, 2x GBU-12, 2x MK-82, 2x Tanque externo, FLIR.
+
+| Slot: F18       | Piloto |
+|-----------------|--------|
+| Charlie-1 (Lider) |        |
+| Charlie-2         |        |
+| Charlie-3         |        |
+| Charlie-4         |        |
