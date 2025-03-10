@@ -1,3 +1,12 @@
+# Indice
+
+- [Grupos de vuelo](#grupos-de-vuelo)
+  - [Grupo Alpha](#grupo-alpha)
+  - [Grupo Bravo](#grupo-bravo)
+  - [Grupo Charlie](#grupo-charlie)
+  - [Grupo Delta](#grupo-delta)
+- [Frecuencias de radio y estaciones de navegación](#frecuencias-de-radio-y-estaciones-de-navegacion)
+
 # Grupos de vuelo
 
 Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
@@ -11,7 +20,7 @@ Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
 
 ## Grupo Alpha
 
- 1. Tarea: SEAD & CAP.
+ 1. Tarea: DEAD & CAP.
  2. Objetivo: Despegar en cabeza, dirigirse a las emisiones radáricas enemigas, interceptar y atacar. Posteriormente adaptar actitud defensiva cubiendo a los grupos STRIKE.
  3. Armamento: 4x AIM-9X, 2x AIM-120, 1x AGM-88, 3x Tanque externo.
 
@@ -47,3 +56,18 @@ Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
 | Charlie-2         |        |
 | Charlie-3         |        |
 | Charlie-4         |        |
+
+## Grupo Delta
+
+1. Tarea: Strike.
+2. Objetivo: Volar WP1, base HAMA, vigilar movimientos de tropas y esperar ordenes.
+
+| Slot: AH-64       | Piloto |
+|-----------------|--------|
+| Delta-1 (Lider) |        |
+| Delta-2         |        |
+
+# Frecuencias de radio y estaciones de navegación
+
+
+
