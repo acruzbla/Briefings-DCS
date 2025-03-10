@@ -1,11 +1,16 @@
-# Indice
+# Índice
 
+- [Sinopsis de la misión](#sinopsis-de-la-misión)
 - [Grupos de vuelo](#grupos-de-vuelo)
   - [Grupo Alpha](#grupo-alpha)
   - [Grupo Bravo](#grupo-bravo)
   - [Grupo Charlie](#grupo-charlie)
   - [Grupo Delta](#grupo-delta)
 - [Frecuencias de radio y estaciones de navegación](#frecuencias-de-radio-y-estaciones-de-navegacion)
+  - [Frecuencias de radio](#frecuencias-de-radio)
+  - [Estaciones TACAN](#estaciones-tacan)
+  - [Estaciones ICLS](#estaciones-icls)
+
 
 # Sinopsis de la misión
 
