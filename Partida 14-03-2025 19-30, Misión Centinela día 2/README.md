@@ -100,6 +100,8 @@ Resumen de las estaciones de radio, TACAN e ICLS necesarias durante la misión.
 
 ## Frecuencias de radio
 
+Será necesario tener SRS instalado, probado y funcionando.
+
 | Nombre frecuencia | Frecuencia |
 |-------------------|------------|
 | Grupo Alpha      | 310.0 MHz   |
