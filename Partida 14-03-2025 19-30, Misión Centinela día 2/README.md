@@ -78,7 +78,7 @@ Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 | Slot      | Piloto |
 |-----------|--------|
 | Charlie-1 (Líder) |        |
-| Charlie-2         |        |
+| Charlie-2         |  Zero DM      |
 | Charlie-3         |        |
 | Charlie-4         |        |
 
