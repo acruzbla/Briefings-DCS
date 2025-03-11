@@ -102,10 +102,10 @@ Resumen de las estaciones de radio, TACAN e ICLS necesarias durante la misión.
 
 | Nombre frecuencia | Frecuencia |
 |-------------------|------------|
-| Grupo Alpha      | 210.0 MHz   |
-| Grupo Bravo      | 215.0 MHz   |
-| Grupo Charlie    | 220.0 MHz   |
-| Grupo Delta      | 225.0 MHz   |
+| Grupo Alpha      | 310.0 MHz   |
+| Grupo Bravo      | 315.0 MHz   |
+| Grupo Charlie    | 320.0 MHz   |
+| Grupo Delta      | 325.0 MHz   |
 | Frecuencia de malla | 251.0 MHz   |
 | Carrier Alpha y Charlie | 127.5 MHz |
 | Carrier Bravo    | 130.0 MHz   |
