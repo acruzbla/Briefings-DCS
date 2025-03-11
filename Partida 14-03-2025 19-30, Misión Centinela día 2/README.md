@@ -6,7 +6,7 @@
   - [Grupo Bravo](#grupo-bravo)
   - [Grupo Charlie](#grupo-charlie)
   - [Grupo Delta](#grupo-delta)
-- [Frecuencias de radio y estaciones de navegación](#frecuencias-de-radio-y-estaciones-de-navegacion)
+- [Frecuencias de radio y estaciones de navegación](#frecuencias-de-radio-y-estaciones-de-navegación)
   - [Frecuencias de radio](#frecuencias-de-radio)
   - [Estaciones TACAN](#estaciones-tacan)
   - [Estaciones ICLS](#estaciones-icls)
@@ -15,122 +15,130 @@
   - [WP-2](#wp-2)
   - [WP-3](#wp-3)
 
-
+---
 
 # Sinopsis de la misión
 
-En el dia 1 nos desplegaron para dar soporte y apoyo a un convoy de rescate del grupo humanitario secuestrado. Durante la misión se derribó un AN-26 con terroristas a bordo. Nos informan que los terroristas del secuestro An-26B eran de la milicia del expresidente que quiere tomar el mando a la fuerza. Se están agrupando en el WP2 para lanzar un ataque de represalia. La OTAN nos manda a proteger la zona de la costa del Líbano. Además del WP2, se han detectado elementos hostiles en WP1 y WP3, así como destacamentos de guerra anti-aerea, por lo que se desplegarán grupos sobre esos WP. La OTAN sigue debatiendo como actuar, por lo que se nos dará información e instrucciones una vez en el aire.
+El día 1 fuimos desplegados para dar soporte y apoyo a un convoy de rescate de un grupo humanitario secuestrado. Durante la misión, se derribó un AN-26 con terroristas a bordo. Nos informan que los terroristas del secuestro del AN-26B pertenecen a la milicia del expresidente, quien intenta tomar el poder por la fuerza. Actualmente, se están agrupando en WP2 para lanzar un ataque de represalia. 
+
+La OTAN nos ha asignado la tarea de proteger la costa del Líbano. Además de WP2, se han detectado elementos hostiles en WP1 y WP3, así como destacamentos de guerra antiaérea. Por ello, se desplegarán grupos en estos WP. La OTAN sigue debatiendo la estrategia a seguir, por lo que se nos proporcionará información e instrucciones una vez en el aire.
 
 [![Vista-General](https://i.ibb.co/jNCzLGn/siria-general-centinela-2.png)](https://ibb.co/YC5Xt8H)
 
-En AMARILLO, La posición aproximada del TANQUER.
-En ROJO, la posición de despliegue del CARRIER.
-En NEGRO, los WP de vigilancia.
-Puede haber CAPs enemigas en TODO MOMENTO.
+- **AMARILLO**: Posición aproximada del TANQUER.
+- **ROJO**: Posición de despliegue del CARRIER.
+- **NEGRO**: WP de vigilancia.
+- **IMPORTANTE**: Puede haber CAPs enemigas en TODO MOMENTO.
+
+---
 
 # Grupos de vuelo
 
-Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
+Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 
-| Grupo       | Aparato |
-|-----------------|--------|
-| Alpha | F18        |
-| Bravo   | F18       |
-| Charlie         | F18        |
-| Delta         |    AH-64    |
+| Grupo  | Aparato |
+|--------|---------|
+| Alpha  | F-18    |
+| Bravo  | F-18    |
+| Charlie| F-18    |
+| Delta  | AH-64   |
 
 ## Grupo Alpha
 
- 1. Tarea: DEAD & CAP.
- 2. Objetivo: Despegar en cabeza, dirigirse a las emisiones radáricas enemigas, interceptar y atacar. Posteriormente adaptar actitud defensiva cubiendo a los grupos STRIKE.
- 3. Armamento: 4x AIM-9X, 2x AIM-120, 1x AGM-88, 3x Tanque externo.
+1. **Tarea**: DEAD & CAP.
+2. **Objetivo**: Despegar en cabeza, dirigirse a las emisiones radar enemigas, interceptar y atacar. Posteriormente, adoptar una actitud defensiva cubriendo a los grupos STRIKE.
+3. **Armamento**: 4x AIM-9X, 2x AIM-120, 1x AGM-88, 3x Tanques externos.
 
-| Slot: F18       | Piloto |
-|-----------------|--------|
-| Alpha-1 (Lider) |        |
+| Slot      | Piloto |
+|-----------|--------|
+| Alpha-1 (Líder) |        |
 | Alpha-2         |        |
 | Alpha-3         |        |
 | Alpha-4         |        |
 
 ## Grupo Bravo
 
-1. Tarea: Strike.
-2. Objetivo: Volar WP2 y estbalecer orbitas de observación, acatar las ordenes que se transferiran durante la misión. Ver más información en los siguientes puntos del briefing.
-3. Armamento: 2x AIM-9X, 2x JDAM, 2x MK-82, 2x Tanque externo, FLIR.
+1. **Tarea**: Strike.
+2. **Objetivo**: Volar a WP2 y establecer órbitas de observación. Acatar las órdenes que se transferirán durante la misión. Más información en los siguientes puntos del briefing.
+3. **Armamento**: 2x AIM-9X, 2x JDAM, 2x MK-82, 2x Tanques externos, FLIR.
 
-| Slot: F18       | Piloto |
-|-----------------|--------|
-| Bravo-1 (Lider) |        |
+| Slot      | Piloto |
+|-----------|--------|
+| Bravo-1 (Líder) |        |
 | Bravo-2         |        |
 | Bravo-3         |        |
 | Bravo-4         |        |
 
 ## Grupo Charlie
 
-1. Tarea: Strike.
-2. Objetivo: Volar WP3 y estbalecer orbitas de observación, acatar las ordenes que se transferiran durante la misión. Ver más información en los siguientes puntos del briefing.
-3. Armamento: 2x AIM-9X, 2x GBU-12, 2x MK-82, 2x Tanque externo, FLIR.
+1. **Tarea**: Strike.
+2. **Objetivo**: Volar a WP3 y establecer órbitas de observación. Acatar las órdenes que se transferirán durante la misión. Más información en los siguientes puntos del briefing.
+3. **Armamento**: 2x AIM-9X, 2x GBU-12, 2x MK-82, 2x Tanques externos, FLIR.
 
-| Slot: F18       | Piloto |
-|-----------------|--------|
-| Charlie-1 (Lider) |        |
+| Slot      | Piloto |
+|-----------|--------|
+| Charlie-1 (Líder) |        |
 | Charlie-2         |        |
 | Charlie-3         |        |
 | Charlie-4         |        |
 
 ## Grupo Delta
 
-1. Tarea: Strike.
-2. Objetivo: Volar WP1, base HAMA, vigilar movimientos de tropas y esperar ordenes.
+1. **Tarea**: Strike.
+2. **Objetivo**: Volar a WP1, base HAMA, vigilar movimientos de tropas y esperar órdenes.
 
-| Slot: AH-64       | Piloto |
-|-----------------|--------|
-| Delta-1 (Lider) |        |
+| Slot      | Piloto |
+|-----------|--------|
+| Delta-1 (Líder) |        |
 | Delta-2         |        |
+
+---
 
 # Frecuencias de radio y estaciones de navegación
 
-En este apartado quedan resumidas las estaciones de Radio, TACAN e ICLS que pueden ser necesarias durante la misión.
+Resumen de las estaciones de radio, TACAN e ICLS necesarias durante la misión.
 
 ## Frecuencias de radio
 
-| Nombre frecuencia      | Frecuencia |
-|-----------------|--------|
-| Grupo Alpha |    210.0Mhz    |
-|   Grupo Bravo       |   215.0Mhz     |
-|    Grupo Charlie       |   220.0Mhz     |
-|    Grupo Delta       |    225.0Mhz    |
-|    Frecuencia de malla       |    251.0Mhz    |
-|    Carrier Alpha y Charlie       |   127.5Mhz     |
-|    Carrier Bravo       |   130.0Mhz     |
-|    Carrier Vuelta (todos)       |   127.5Mhz     |
-|    AWACS      |   251.0Mhz   |
-|    TANQUER      |   255.0Mhz     |
+| Nombre frecuencia | Frecuencia |
+|-------------------|------------|
+| Grupo Alpha      | 210.0 MHz   |
+| Grupo Bravo      | 215.0 MHz   |
+| Grupo Charlie    | 220.0 MHz   |
+| Grupo Delta      | 225.0 MHz   |
+| Frecuencia de malla | 251.0 MHz   |
+| Carrier Alpha y Charlie | 127.5 MHz |
+| Carrier Bravo    | 130.0 MHz   |
+| Carrier Vuelta (todos) | 127.5 MHz |
+| AWACS           | 251.0 MHz   |
+| TANQUER        | 255.0 MHz   |
 
-NOTA: Frecuencia AWACS también hará de control de misión e indicaciones generales / guia de partida.
+**Nota**: La frecuencia de AWACS también servirá como control de misión e indicaciones generales/guía de partida.
 
 ## Estaciones TACAN
 
-| Estacion TACAN     | Tacan |
-|-----------------|--------|
-|Carrier Alpha y Charlie   |    8X    |
-|    Carrier Bravo      |    4X    |
-|    Carrier Vuelta (todos)     |   5X     |
-|    TANQUER     |   74X     |
+| Estación TACAN | TACAN |
+|---------------|--------|
+| Carrier Alpha y Charlie | 8X |
+| Carrier Bravo  | 4X |
+| Carrier Vuelta (todos) | 5X |
+| TANQUER      | 74X |
 
-NOTA: El carrier de veulta activará el TACAN cuando esté disponible, lo notificará durante la misión.
+**Nota**: El Carrier de vuelta activará el TACAN cuando esté disponible y lo notificará durante la misión.
 
 ## Estaciones ICLS
 
-| Estacion ICLS     | CANAL |
-|-----------------|--------|
-| Carrier Alpha y Charlie |    9    |
-|      Carrier Bravo    |    5    |
-|      Carrier Vuelta (todos)    |    6    |
+| Estación ICLS | Canal |
+|--------------|--------|
+| Carrier Alpha y Charlie | 9 |
+| Carrier Bravo  | 5 |
+| Carrier Vuelta (todos) | 6 |
+
+---
 
 # Descripción de los objetivos
 
-En el presente punto se redactan los objetivos que la OTAN, mediante reconocimiento por dron, ha conseguido visualizar. Como se ha explicado en puntos anteriores NO hay autorización para abrir fuego hasta que no se informe desde control de misión por radio.
+La OTAN, mediante reconocimiento por dron, ha identificado los siguientes objetivos. **No hay autorización para abrir fuego hasta que se indique desde el control de misión por radio.**
 
 ## WP-1
 
@@ -142,9 +150,6 @@ Aeronaves enemigas listas para despegar en scramble.
 
 [![WP2](https://i.ibb.co/cXXFJ09M/WP2.webp)](https://ibb.co/WppynZXq)
 
-[![WP2-2](https://i.ibb.co/TqnKjBZd/WP2-2.webp)](https://ibb.co/84RzvDJt)
-
-
 ## WP-3
 
 Objetivos aislados a los lados de la pista de taxi. Hay aeronaves listas para el despegue.
@@ -152,4 +157,3 @@ Objetivos aislados a los lados de la pista de taxi. Hay aeronaves listas para el
 [![WP3-2](https://i.ibb.co/G3b17M9Z/WP3-2.webp)](https://ibb.co/n85Vr1BX)
 
 [![WP-3-1](https://i.ibb.co/BVh8GNwc/WP-3-1.webp)](https://ibb.co/3yxtvzk4)
-
