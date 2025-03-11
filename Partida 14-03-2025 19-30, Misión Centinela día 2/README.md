@@ -21,6 +21,13 @@
 
 En el dia 1 nos desplegaron para dar soporte y apoyo a un convoy de rescate del grupo humanitario secuestrado. Durante la misión se derribó un AN-26 con terroristas a bordo. Nos informan que los terroristas del secuestro An-26B eran de la milicia del expresidente que quiere tomar el mando a la fuerza. Se están agrupando en el WP2 para lanzar un ataque de represalia. La OTAN nos manda a proteger la zona de la costa del Líbano. Además del WP2, se han detectado elementos hostiles en WP1 y WP3, así como destacamentos de guerra anti-aerea, por lo que se desplegarán grupos sobre esos WP. La OTAN sigue debatiendo como actuar, por lo que se nos dará información e instrucciones una vez en el aire.
 
+[![Vista-General](https://i.ibb.co/jNCzLGn/siria-general-centinela-2.png)](https://ibb.co/YC5Xt8H)
+
+En AMARILLO, La posición aproximada del TANQUER.
+En ROJO, la posición de despliegue del CARRIER.
+En NEGRO, los WP de vigilancia.
+Puede haber CAPs enemigas en TODO MOMENTO.
+
 # Grupos de vuelo
 
 Habrá 3 grupos de vuelo de ala fija y 1 grupo de vuelo de ala rotatoria.
