@@ -106,15 +106,20 @@ NOTA: Frecuencia AWACS también hará de control de misión e indicaciones gener
 
 | Estacion TACAN     | Tacan |
 |-----------------|--------|
-|  |        |
-|          |        |
+|Carrier Alpha y Charlie   |    8X    |
+|    Carrier Bravo      |    4X    |
+|    Carrier Vuelta (todos)     |   5X     |
+|    TANQUER     |   74X     |
+
+NOTA: El carrier de veulta activará el TACAN cuando esté disponible, lo notificará durante la misión.
 
 ## Estaciones ICLS
 
 | Estacion ICLS     | CANAL |
 |-----------------|--------|
-|  |        |
-|          |        |
+| Carrier Alpha y Charlie |    9    |
+|      Carrier Bravo    |    5    |
+|      Carrier Vuelta (todos)    |    6    |
 
 # Descripción de los objetivos
 
