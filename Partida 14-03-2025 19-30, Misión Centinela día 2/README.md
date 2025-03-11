@@ -51,8 +51,8 @@ Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 
 | Slot      | Piloto |
 |-----------|--------|
-| Alpha-1 (Líder) |        |
-| Alpha-2         |        |
+| Alpha-1 (Líder) |    Kinghost    |
+| Alpha-2         |    Bilk    |
 | Alpha-3         |        |
 | Alpha-4         |        |
 
