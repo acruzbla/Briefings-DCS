@@ -89,11 +89,18 @@ En este apartado quedan resumidas las estaciones de Radio, TACAN e ICLS que pued
 
 | Nombre frecuencia      | Frecuencia |
 |-----------------|--------|
-| Grupo Alpha |        |
-|   Grupo Bravo       |        |
-|    Grupo Charlie       |        |
-|    Grupo Delta       |        |
-|    Frecuencia de malla       |        |
+| Grupo Alpha |    210.0Mhz    |
+|   Grupo Bravo       |   215.0Mhz     |
+|    Grupo Charlie       |   220.0Mhz     |
+|    Grupo Delta       |    225.0Mhz    |
+|    Frecuencia de malla       |    251.0Mhz    |
+|    Carrier Alpha y Charlie       |   127.5Mhz     |
+|    Carrier Bravo       |   130.0Mhz     |
+|    Carrier Vuelta (todos)       |   127.5Mhz     |
+|    AWACS      |   251.0Mhz   |
+|    TANQUER      |   255.0Mhz     |
+
+NOTA: Frecuencia AWACS también hará de control de misión e indicaciones generales / guia de partida.
 
 ## Estaciones TACAN
 
