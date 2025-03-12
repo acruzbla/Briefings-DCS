@@ -53,7 +53,7 @@ Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 |-----------|--------|
 | Alpha-1 (Líder) |    Kinghost    |
 | Alpha-2         |    Bilk    |
-| Alpha-3         |        |
+| Alpha-3         |    TtheIronman77786    |
 | Alpha-4         |        |
 
 ## Grupo Bravo
@@ -65,7 +65,7 @@ Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 | Slot      | Piloto |
 |-----------|--------|
 | Bravo-1 (Líder) |        |
-| Bravo-2         |        |
+| Bravo-2         |    Alfa_10    |
 | Bravo-3         |        |
 | Bravo-4         |        |
 
