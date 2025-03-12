@@ -113,7 +113,7 @@ Será necesario tener SRS instalado, probado y funcionando.
 | Carrier Bravo    | 130.0 MHz   |
 | Carrier Vuelta (todos) | 127.5 MHz |
 | AWACS           | 251.0 MHz   |
-| TANQUER        | 255.0 MHz   |
+| TANKER        | 255.0 MHz   |
 
 **Nota**: La frecuencia de AWACS también servirá como control de misión e indicaciones generales/guía de partida.
 
@@ -124,7 +124,7 @@ Será necesario tener SRS instalado, probado y funcionando.
 | Carrier Alpha y Charlie | 8X |
 | Carrier Bravo  | 4X |
 | Carrier Vuelta (todos) | 5X |
-| TANQUER      | 74X |
+| TANKER      | 74X |
 
 **Nota**: El Carrier de vuelta activará el TACAN cuando esté disponible y lo notificará durante la misión.
 
