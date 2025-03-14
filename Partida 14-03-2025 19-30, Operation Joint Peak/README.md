@@ -92,7 +92,7 @@ Las unidades de defensa aérea que protegen el objetivo **HOOSIER** pueden ser i
 | Dodge 1-1 (Líder) |        |
 | Dodge 1-2 |    SabeaMixta    |
 | Dodge 1-3 |    Alfa_10    |
-| Dodge 1-4 |        |
+| Dodge 1-4 |   MrBushido     |
 
 ### Grupo Springfield
 1. **Tarea**: Apoyo aéreo cercano (CAS).
