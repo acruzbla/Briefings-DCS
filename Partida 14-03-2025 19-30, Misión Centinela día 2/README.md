@@ -90,7 +90,7 @@ Habrá tres grupos de vuelo de ala fija y un grupo de vuelo de ala rotatoria.
 | Slot      | Piloto |
 |-----------|--------|
 | Delta-1 (Líder) |        |
-| Delta-2         |    _Heisenberg_    |
+| Delta-2         |    Heisenberg    |
 
 ---
 
