@@ -72,15 +72,15 @@ Las unidades de defensa aérea que protegen el objetivo **HOOSIER** pueden ser i
 
 ## Slots
 
-### Grupo Dodge 9 (CAP)
-1. **Tarea**: Patrulla aérea de combate (CAP).
+### Grupo Dodge 9 (Escort)
+1. **Tarea**: Patrulla aérea de combate (Escort).
 2. **Objetivo**: Interceptar y neutralizar cazas enemigos en la zona de operación.
 
 | Slot (F/A-18C) | Piloto |
 |------|--------|
 | Dodge 9-1 (Líder) |        |
-| Dodge 9-2 |   SabeaMixta     |
-| Dodge 9-3 |    Alfa_10    |
+| Dodge 9-2 |   Ironaman     |
+| Dodge 9-3 |    Bilk    |
 | Dodge 9-4 |        |
 
 ### Grupo Dodge 1 (Strike)
@@ -90,8 +90,8 @@ Las unidades de defensa aérea que protegen el objetivo **HOOSIER** pueden ser i
 | Slot | Piloto |
 |------|--------|
 | Dodge 1-1 (Líder) |        |
-| Dodge 1-2 |    Ironaman    |
-| Dodge 1-3 |    Bilk    |
+| Dodge 1-2 |    SabeaMixta    |
+| Dodge 1-3 |    Alfa_10    |
 | Dodge 1-4 |        |
 
 ### Grupo Springfield
