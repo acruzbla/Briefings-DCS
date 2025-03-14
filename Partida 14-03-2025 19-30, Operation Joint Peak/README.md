@@ -81,7 +81,7 @@ Las unidades de defensa aérea que protegen el objetivo **HOOSIER** pueden ser i
 | Dodge 9-1 (Líder) |        |
 | Dodge 9-2 |   Ironman     |
 | Dodge 9-3 |    Bilk    |
-| Dodge 9-4 |        |
+| Dodge 9-4 |      Mon69  |
 
 ### Grupo Dodge 1 (Strike)
 1. **Tarea**: Ataque a objetivos terrestres enemigos.
