@@ -79,7 +79,7 @@ Las unidades de defensa aérea que protegen el objetivo **HOOSIER** pueden ser i
 | Slot (F/A-18C) | Piloto |
 |------|--------|
 | Dodge 9-1 (Líder) |        |
-| Dodge 9-2 |   Ironaman     |
+| Dodge 9-2 |   Ironman     |
 | Dodge 9-3 |    Bilk    |
 | Dodge 9-4 |        |
 
