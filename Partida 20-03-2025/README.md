@@ -17,7 +17,7 @@
 
 ## Detalles de la misión
 **Fecha:** 12/01/2005  
-**Hora:** 07:00  
+**Hora:** 07:35 
 **Teatro:** Siria  
 **Situación:** Guerra de Israel contra Siria, Jordania y Líbano  
 **Clima:** Despejado  
