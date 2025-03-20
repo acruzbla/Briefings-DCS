@@ -29,14 +29,25 @@
 
 ## Descripción
 
-Las unidades de reconocimiento han detectado una gran concentración de fuerzas enemigas preparándose para un ataque. Estas unidades representan una amenaza importante para las fuerzas aliadas cercanas en caso de que el enemigo decida atacar. Para evitarlo, el mando ha ordenado su eliminación.  
+Las unidades de reconocimiento han detectado una gran concentración de fuerzas enemigas preparándose para un ataque. Estas unidades representan una amenaza importante para las fuerzas aliadas cercanas en caso de que el enemigo decida atacar. Para evitarlo, el mando ha ordenado su eliminación. Han sido designadas como WP2 y WP3. El enemigo ha desplegado un SA2 de protección para paraguas aereo en el WP1.
 
-Además, unidades de reconocimiento han detectado un gran número de fuerzas enemigas en el interior del territorio enemigo. Estas unidades podrían representar un riesgo significativo para nuestras fuerzas terrestres cuando comience la ofensiva terrestre. Para evitarlo, el mando ha ordenado su destrucción.
+Ganad la superioridad aerea, posteriormente, destruid todas las unidades que están listas para atacar en WP2 y 3.
+
+
+![imagen-briefing](https://i.ibb.co/8g7BBJs2/imagen-briefing.png)
+
 
 ---
 
 ## Tareas
 - Destruir todos los misiles balísticos designados como objetivo **MARS** (WP1).  
+
+WP de ataque SAM:
+
+N 32°13'59", E 35°59'22", Alt 1774 feets
+
+
+
 - Destruir todos los tanques designados como objetivo **CULDROSE** (WP2).  
 - Destruir los radares de seguimiento en el objetivo **TURF** (WP3).  
 
