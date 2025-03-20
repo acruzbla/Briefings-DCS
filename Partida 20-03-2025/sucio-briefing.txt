@@ -1,0 +1,94 @@
+Operation Blue Queen
+
+Date: 12/01/2005
+Time: 07:00
+Theater: Syria
+Situation: Israel War with Syria, Jordan & Lebanon
+Weather: Clear
+Wind: ModerateBreeze (5 m/s, E)
+
+Allies: USA
+Enemies: Russia
+
+Description
+Recon units have spotted many enemy forces getting ready for an attack. These units would be the primary threat to nearby allies should The enemy attack them. To prevent this, Command has demanded the elimination of these units. recon units have spotted many enemy forces massing deep inside enemy territory. These units could pose a major risk to our ground forces when the ground war begins. To prevent this, Command has ordered the destruction of these units.
+
+
+
+
+Tasks
+Destroy all ballistic missiles designated objective MARS (WP1).
+Destroy all tanks designated objective CULDROSE (WP2).
+Destroy the tracking radars at objective TURF (WP3).
+
+Desarrollo de la misión:
+1. El grupo Jury despegará en cabeza y establecera una orbita alrededor del Carrier, a la espera del grupo Sting.
+2. El grupo Sting despegará dirección WP3, con la tarea de acabar con el SA-2 enemigo.
+3. Grupo Jury iniciará escolta de grupo Sting.
+4. Grupos strike, Boar y Springfield estarán listos para despegar inmediatamente una vez grupo Sting esté atacando WP3.
+5. Con la superioridad aérea ganada, Boar y Springfield tienen luz verde para dirigirse a WP2 y WP1 y acabar con todas las unidades allí presentes.
+6. Con la superioridad aérea ganada, Sting se une a la escolta de Strike junto a Jury.
+
+
+Airbases
+Name	Runways	Radio	ILS	TACAN	Link4
+Eyn Shemer	27-09	123.4	-      	65X       -
+CVN-71 Theodore Roosevelt	-	127.5	11	CVN, 74X	336
+
+NOTA: Base Aerea Eyn Shemer actúa como alternativo de todos los grupos embarcados.
+
+Flight groups
+Callsign	Aircraft	Radio	Payload	From
+Jury 8(C)(P)	2× F/A-18C Lot 20	305.0	EMPTY	CVN-71 Theodore Roosevelt
+Sting 2(C)(P)	4× F/A-18C Lot 20	310.0	EMPTY	CVN-71 Theodore Roosevelt
+Ford 5(P)	4× F/A-18C Lot 20	-	EMPTY	Eyn Shemer
+Boar 3(C)(P)	2× A-10C II	315.0	EMPTY	Eyn Shemer
+Springfield 3(C)(P)	2× AH-64D BLK.II	320.0	EMPTY	Eyn Shemer
+Overlord 6	1× E-2D	251.0	AWACS
+Mauler 2	1× S-3B Tanker	251.0, 26X (callsign TKR1)	Refueling
+
+Radio de malla: 251.0
+
+
+Ford 5(P) permanecerán arrancados, vacios y en alerta. Los pilotos derribados podrán hacer uso de ellos para reincorporarse a la acción.
+
+Slots
+
+Grupo Jury 8
+1. Tarea: Escolta del resto de grupos. Defensa AA.
+
+| Slot (F/A-18C) | Piloto |
+|------|--------|
+| Jury 8-1 (Líder) |     Ironman   |
+| Jury 8-2 |        |
+
+
+Grupo Sting 2
+1. Tarea principal: DEAD en WP3.
+2. Tarea secundaria: Escolta. Una vez cumplida la principal.
+
+| Slot (F/A-18C) | Piloto |
+|------|--------|
+| Sting 2-1 (Líder) |        |
+| Sting 2-2 |   Rod     |
+| Sting 2-3 |    Togo    |
+| Sting 2-4 |    Bilk    |
+
+Grupo Boar 3
+1. Tarea: Strike en WP1 y WP2.
+
+| Slot (A10C) | Piloto |
+|------|--------|
+| Boar 3-1 (Líder) |     Dante    |
+| Boar 3-2 |        |
+
+
+Grupo Springfield 3
+1. Tarea: Strike en WP1 y WP2.
+
+| Slot (F/A-18C) | Piloto |
+|------|--------|
+| Springfield 3-1 (Líder) |     Heisenberg    |
+| Springfield 3-2 |        |
+
+
