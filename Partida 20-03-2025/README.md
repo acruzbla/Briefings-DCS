@@ -46,6 +46,7 @@ Ganad la superioridad aerea, posteriormente, destruid todas las unidades que est
 
 WP de ataque SAM:
 N 32°13'59", E 35°59'22", Alt 1774 feets
+Radar HARM Code: 126
 
 ---
 
