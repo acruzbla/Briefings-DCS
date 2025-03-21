@@ -83,6 +83,8 @@ Radar HARM Code: 126
 
 **Radio de malla:** 251.0  
 
+Las radios se gestionarán con SRS. Obligatorio tenerlo testeado.
+
 **Nota:** **Ford 5(P)** permanecerá encendido, vacío y en alerta. Los pilotos derribados podrán hacer uso de estos aviones para reincorporarse a la acción.  
 
 ---
