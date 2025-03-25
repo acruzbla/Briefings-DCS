@@ -45,7 +45,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 | Slot           | Piloto             |
 |----------------|--------------------|
-| Alpha-1 (Líder) |            |
+| Alpha-1 (Líder) |      Kinghost      |
 | Alpha-2         |       Ironman         |
 | Alpha-3         |    |
 | Alpha-4         |                    |
