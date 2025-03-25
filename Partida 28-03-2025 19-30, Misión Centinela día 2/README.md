@@ -23,11 +23,6 @@ Tras la caída de un AN-26 con miembros de una milicia leal al expresidente, se 
 
 [![MAPA](https://i.ibb.co/4LZc6q3/MAPA.webp)](https://ibb.co/BJVmXpF)
 
-- **AMARILLO**: Posición aproximada del TANQUER.
-- **ROJO**: Posición de despliegue del CARRIER.
-- **NEGRO**: WP de vigilancia.
-- **IMPORTANTE**: Puede haber CAPs enemigas en TODO MOMENTO.
-
 ---
 
 # Grupos de vuelo
@@ -113,11 +108,12 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 | Grupo Bravo               | 315.0 MHz   |
 | Grupo Charlie             | 320.0 MHz   |
 | Grupo Delta               | 325.0 MHz   |
-| Grupo Foxtrot             | 326.0 MHz   |
+| Grupo Foxtrot             | 254.0 MHz   |
 | Frecuencia de malla       | 251.0 MHz   |
 | Carrier Alpha y Charlie   | 127.5 MHz   |
 | Carrier Bravo             | 130.0 MHz   |
 | Carrier Vuelta (todos)    | 127.5 MHz   |
+| Base Beirut    | 253.2 MHz   |
 | AWACS                     | 251.0 MHz   |
 | TANKER                    | 255.0 MHz   |
 
@@ -158,3 +154,4 @@ Zona de vigilancia asignada al grupo Delta. Base en Al Qusayr. Sin datos adicion
 Base con aeronaves enemigas preparadas para scramble. Se observan vehículos y estructuras estáticas susceptibles de ser objetivos.
 
 [![WP2](https://i.ibb.co/cXXFJ09M/WP2.webp)](https://ibb.co/WppynZXq)
+
