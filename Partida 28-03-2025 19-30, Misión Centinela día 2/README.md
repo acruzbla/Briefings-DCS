@@ -46,7 +46,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 | Slot           | Piloto             |
 |----------------|--------------------|
 | Alpha-1 (Líder) |            |
-| Alpha-2         |                |
+| Alpha-2         |       Ironman         |
 | Alpha-3         |    |
 | Alpha-4         |                    |
 
@@ -93,8 +93,8 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 | Slot            | Piloto |
 |------------------|--------|
-| Foxtrot-1         |        |
-| Foxtrot-2         |        |
+| Foxtrot-1         |    TedyDog    |
+| Foxtrot-2         |    Dante    |
 
 ---
 
