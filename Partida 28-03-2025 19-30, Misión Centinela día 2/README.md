@@ -53,7 +53,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 ## Grupo Bravo
 
 1. **Tarea**: Strike.  
-2. **Objetivo**: Establecer órbita sobre WP2 y esperar órdenes.  
+2. **Objetivo**: Establecer órbita sobre WP1, esperar ordenes y establecer vigilancia sobre WP2. 
 3. **Armamento**: 2x AIM-9X, 2x JDAM, 2x MK-82, 2x Tanques externos, FLIR.
 
 | Slot            | Piloto   |
@@ -65,7 +65,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 ## Grupo Charlie
 
 1. **Tarea**: Strike.  
-2. **Objetivo**: Establecer órbita sobre WP2 y esperar órdenes.  
+2. **Objetivo**: Establecer órbita sobre WP1, esperar ordenes y establecer vigilancia sobre WP2.  
 3. **Armamento**: 2x AIM-9X, 2x GBU-12, 2x MK-82, 2x Tanques externos, FLIR.
 
 | Slot             | Piloto      |
