@@ -76,7 +76,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 ## Grupo Delta
 
-1. **Tarea**: Reconocimiento y vigilancia.  
+1. **Tarea**: Reconocimiento y vigilancia. CAS. 
 2. **Objetivo**: Vigilar la base WP1 (Al Qusayr) y esperar instrucciones.  
 3. **Armamento**: Estándar para tareas de observación.
 
