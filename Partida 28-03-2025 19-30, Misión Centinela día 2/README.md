@@ -58,8 +58,8 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 | Slot            | Piloto   |
 |------------------|----------|
-| Bravo-1 (Líder)   |          |
-| Bravo-2           |  Bilk |
+| Bravo-1 (Líder)   |    Bilk      |
+| Bravo-2           |  Alfa |
 | Bravo-3           |     Zero DM     |
 
 ## Grupo Charlie
