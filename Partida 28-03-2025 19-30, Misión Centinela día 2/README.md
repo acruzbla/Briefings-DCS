@@ -82,7 +82,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 | Slot            | Piloto       |
 |------------------|--------------|
-| Delta-1 (Líder)   |              |
+| Delta-1 (Líder)   |      Heisenberg        |
 | Delta-2           |    |
 
 ## Grupo Foxtrot
