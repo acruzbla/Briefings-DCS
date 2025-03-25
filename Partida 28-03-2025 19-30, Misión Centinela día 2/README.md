@@ -70,7 +70,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 
 | Slot             | Piloto      |
 |------------------|-------------|
-| Charlie-1 (Líder) |             |
+| Charlie-1 (Líder) |     Rod        |
 | Charlie-2         |             |
 | Charlie-3         |   |
 
