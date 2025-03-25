@@ -108,11 +108,12 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 | Grupo Bravo               | 315.0 MHz   |
 | Grupo Charlie             | 320.0 MHz   |
 | Grupo Delta               | 325.0 MHz   |
-| Grupo Foxtrot             | 326.0 MHz   |
+| Grupo Foxtrot             | 254.0 MHz   |
 | Frecuencia de malla       | 251.0 MHz   |
 | Carrier Alpha y Charlie   | 127.5 MHz   |
 | Carrier Bravo             | 130.0 MHz   |
 | Carrier Vuelta (todos)    | 127.5 MHz   |
+| Base Beirut    | 253.2 MHz   |
 | AWACS                     | 251.0 MHz   |
 | TANKER                    | 255.0 MHz   |
 
