@@ -88,7 +88,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 ## Grupo Foxtrot
 
 1. **Tarea**: Apoyo cercano (CAS).  
-2. **Objetivo**: Operar desde la base de Beirut, armándose para atacar objetivos estáticos y en movimiento en WP2.  
+2. **Objetivo**: Operar desde la base de Beirut, armándose para atacar objetivos estáticos y en movimiento. Establecer órbita sobre WP1, esperar ordenes y establecer vigilancia sobre WP2.  
 3. **Armamento**: A elegir según necesidad operativa en base Beirut.
 
 | Slot            | Piloto |
