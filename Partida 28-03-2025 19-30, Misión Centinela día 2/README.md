@@ -60,7 +60,7 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 |------------------|----------|
 | Bravo-1 (Líder)   |          |
 | Bravo-2           |  Bilk |
-| Bravo-3           |          |
+| Bravo-3           |     Zero DM     |
 
 ## Grupo Charlie
 
