@@ -115,7 +115,8 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 | Carrier Vuelta (todos)    | 127.5 MHz   |
 | Base Beirut    | 253.2 MHz   |
 | AWACS                     | 251.0 MHz   |
-| TANKER                    | 255.0 MHz   |
+| TANKER   1                 | 255.0 MHz   |
+| TANKER   2                 | 256.0 MHz   |
 
 **Nota**: La frecuencia de AWACS servirá también como control de misión e instrucciones generales.
 
@@ -126,7 +127,8 @@ Habrá cinco grupos de vuelo: tres de ala fija, uno rotatorio y uno de apoyo cer
 | Carrier Alpha y Charlie    | 8X     |
 | Carrier Bravo              | 4X     |
 | Carrier Vuelta (todos)     | 5X     |
-| TANKER                     | 74X    |
+| TANKER 1                     | 73X    |
+| TANKER 2                     | 74X    |
 | Base Beirut (Foxtrot)      | 71X    |
 
 **Nota**: El Carrier de vuelta activará el TACAN cuando esté disponible.
